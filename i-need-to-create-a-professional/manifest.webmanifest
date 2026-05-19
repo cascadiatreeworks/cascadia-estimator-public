@@ -1,0 +1,19 @@
+{
+  "name": "Cascadia Tree Works Estimator",
+  "short_name": "Cascadia",
+  "description": "Mobile field estimator for Cascadia Tree Works.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f5ed",
+  "theme_color": "#20342d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/cascadia-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
